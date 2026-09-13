@@ -31,7 +31,7 @@ python examples/play_vs_engine.py
 
 ## 2. Directory Structure
 
-```
+```text
 minimax-chess-engine/
 │
 ├── README.md
