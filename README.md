@@ -28,6 +28,7 @@ pip install -r requirements.txt
 # Play against the engine
 python examples/play_vs_engine.py
 
+```
 
 ## 2. Directory Structure
 
