@@ -101,10 +101,3 @@ See [docs/ALGORITHM.md](docs/ALGORITHM.md) for details.
 | 3     | ~1.5s         | ~200          |
 | 4     | ~15s          | ~50           |
 
-## 🔮 Future Work
-
-- [ ] Transposition tables
-- [ ] Move ordering (MVV-LVA)
-- [ ] Iterative deepening
-- [ ] UCI protocol support
-- [ ] Neural network evaluation (SCNN on FPGA)
